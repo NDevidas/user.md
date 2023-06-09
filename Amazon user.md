@@ -22,6 +22,7 @@ The featured films, TV programmes, and original content areas are divided into d
 
 | Sr.no | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
+| 1 | User can click on Home tab at the bottom of screen as shown in above figure to explore the features |
+| 2 | User can search for specific titles or browse content by genre, actor, or director using the top bar of the screen. You may also see navigation tabs or menus that let you look through various genres, TV series, or movie categories. |
+| 3 | The user can continue watching previously watched films or television series. |
+| 4 | In Below the search bar and navigation, user can see personalized recommendations based on your viewing history and preferences. These recommendations are tailored to users interests and can help user to discover new content. |
