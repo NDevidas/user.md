@@ -15,8 +15,13 @@ Figure 2
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Application Feature
+### Amazon Prime Home: 
+The featured films, TV programmes, and original content areas are divided into different grid-like sections on the Amazon Prime Video homepage, depending on the device you're using.
+![image](https://github.com/NDevidas/user.md/assets/135496877/3060a32e-0adb-46c5-8590-277526ffa6ca)
+**Purpose:** The purpose to know features about Amazon prime home page.
 
-
-
-
+| Sr.no | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
