@@ -60,12 +60,17 @@ Amazon Prime Live TV subscribers can purchase access to a variety of live TV cha
 | 2 | The user can browse channels and subscribe to them.These channels offer programmes from providers such as HBO, STARZ, CBS All Access, Showtime, Cinemax, and others.  |
 
 
+### Amazon Prime Downloads: 
+Users can download specific films and TV shows from Amazon Prime Video's "Downloads" function for offline viewing. This function enables users to download content to a suitable device, such as a computer, tablet, or smartphone, so users can watch it later without an internet connection.
 
+![image](https://github.com/NDevidas/user.md/assets/135496877/561a0f5e-3160-480e-9314-86c32930f003)
 
+**Purpose:** The purpose to know features about Amazon prime Downloads.
 
-
-
-
+| Sr.no | Description |
+| ----------- | ----------- |
+| 1 | User can click on Downloads tab at the bottom of screen as shown in above figure to explore the features. |
+| 2 | Once a title is downloaded, user can access it from the "Downloads" or "Offline" section within the Amazon Prime Video app. |
 
 
 
