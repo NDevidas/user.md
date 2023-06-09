@@ -9,6 +9,14 @@ ________________________________________________________________________________
 
 Figure 1
 1.	Open Play store application, and search for “Amazon Prime Video” on search menu bar, Click on Install to install the application.
- 
+ ![image](https://github.com/NDevidas/user.md/assets/135496877/27d6f92d-97fc-4707-84aa-b44cd1f710fd)
 Figure 2
 2.	Click on Open tab to open the Amazon Prime Video application as shown in figure 2.
+______________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Application Feature
+
+
+
+
+
