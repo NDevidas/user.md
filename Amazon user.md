@@ -4,3 +4,4 @@ Amazon prime is an American online OTT streaming platform, the Amazon headquarte
                                                
 Operating worldwide, the service may require a full Prime subscription to be accessed. In countries such as the United States, United Kingdom, and Germany, the service can be accessed without a full Prime subscription, whereas in Australia, Canada, France, India, Turkey, and Italy, it can only be accessed through a dedicated website. Prime Video additionally offers a content add-on service in the form of channels, called Amazon Channels, or Prime Video Channels, which allow users to subscribe to additional video subscription services from other content providers within Prime Video.
 __________________________________________________________________________________________________________________________________________________________________________________________________
+## 	Installation Guide
