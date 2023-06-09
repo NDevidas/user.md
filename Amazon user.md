@@ -1,10 +1,12 @@
 # INTRODUCTION #
-Amazon prime is an American online OTT streaming platform, the Amazon headquarter resume Seattle Washington United States. The services primarily distribute the online television shows and movies produced by Amazon Studios or MGM Holding or any licensed to Amazon with the service also hosting content from other providers, content add-ons, live sporting events, and video rental and purchasing servic.
+Amazon prime is an American online OTT streaming platform, the Amazon headquarter resume Seattle Washington United States. The services primarily distribute the online television shows and movies produced by Amazon Studios or MGM Holding or any licensed to Amazon with the service also hosting content from other providers, content add-ons, live sporting events, and video rental and purchasing services.
 
-[Picture1](https://github.com/NDevidas/user.md/assets/135496877/0e664aac-80dc-4b72-8e29-83076b1d2e42)
+![image](https://github.com/NDevidas/user.md/assets/135496877/4cc1707a-be54-458b-b9a8-c2623e42f1ac)
+
                                                
 Operating worldwide, the service may require a full Prime subscription to be accessed. In countries such as the United States, United Kingdom, and Germany, the service can be accessed without a full Prime subscription, whereas in Australia, Canada, France, India, Turkey, and Italy, it can only be accessed through a dedicated website. Prime Video additionally offers a content add-on service in the form of channels, called Amazon Channels, or Prime Video Channels, which allow users to subscribe to additional video subscription services from other content providers within Prime Video.
 __________________________________________________________________________________________________________________________________________________________________________________________________
+
 ## 	Installation Guide
  ![image](https://github.com/NDevidas/user.md/assets/135496877/c55fc226-80fd-425f-8636-c5d54ac46a48)
 
@@ -18,6 +20,7 @@ Figure 2
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Application Feature
+
 ### Amazon Prime Home: 
 The featured films, TV programmes, and original content areas are divided into different grid-like sections on the Amazon Prime Video homepage, depending on the device you're using.
 
