@@ -73,4 +73,27 @@ Users can download specific films and TV shows from Amazon Prime Video's "Downlo
 | 2 | Once a title is downloaded, user can access it from the "Downloads" or "Offline" section within the Amazon Prime Video app. |
 
 
+### Amazon Prime Find:
+Amazon Prime Video, user can find a Find bar. Enter the title, actor, director, or keywords related to the content user looking for. As user type, suggestions may appear to help find what user searching for. Hit Enter or tap the search icon to see the search results.
+
+![image](https://github.com/NDevidas/user.md/assets/135496877/f795b154-ac31-49cc-9d4f-04999f168342)
+
+**Purpose:** The purpose to know features about Amazon prime Find option.
+
+| Sr.no | Description |
+| ----------- | ----------- |
+| 1 | User can click on Find tab at the bottom of screen as shown in above figure to explore the features.|
+| 2 | User canenter the title, actor, director, or keywords related to the content looking for. |
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+## Help & Customer Service
+
+There are several ways to get in touch with Amazon, including live chat, phone, and email. Choose the approach that will make the most sense for you. If live chat or phone help is offered, you can be prompted for your phone number or requested to start a chat session from the website itself.  
+**Navigation:** Profile>settings>Help & Feedback
+
+![image](https://github.com/NDevidas/user.md/assets/135496877/23b08d69-db03-4211-ac26-26cb87c4ea18)
+
+
 
