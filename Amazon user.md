@@ -5,3 +5,10 @@ Amazon prime is an American online OTT streaming platform, the Amazon headquarte
 Operating worldwide, the service may require a full Prime subscription to be accessed. In countries such as the United States, United Kingdom, and Germany, the service can be accessed without a full Prime subscription, whereas in Australia, Canada, France, India, Turkey, and Italy, it can only be accessed through a dedicated website. Prime Video additionally offers a content add-on service in the form of channels, called Amazon Channels, or Prime Video Channels, which allow users to subscribe to additional video subscription services from other content providers within Prime Video.
 __________________________________________________________________________________________________________________________________________________________________________________________________
 ## 	Installation Guide
+ ![image](https://github.com/NDevidas/user.md/assets/135496877/c55fc226-80fd-425f-8636-c5d54ac46a48)
+
+Figure 1
+1.	Open Play store application, and search for “Amazon Prime Video” on search menu bar, Click on Install to install the application.
+ 
+Figure 2
+2.	Click on Open tab to open the Amazon Prime Video application as shown in figure 2.
